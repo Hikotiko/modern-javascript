@@ -7,5 +7,8 @@ let amount = '100';
 amount = Number(amount);
 
 // Change number to string
-amount = amount.toString();
+// amount = amount.toString();
+// amount = String(amount)
+
 console.log(amount, typeof amount);
+
